@@ -1,6 +1,4 @@
 # Movie Theater Seating Challenge
-
-## Introduction
 The goal is to implement an algorithm for assigning seats within a movie theater to fulfill reservation
 requests. The arrangement of the theater has 10 rows with 20 seats per row. Our algorithm should maximize customer satisfaction and customer safety.
 
