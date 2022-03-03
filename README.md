@@ -28,8 +28,9 @@ we tell them "insufficient seats" and try to fit any requests that meet the rema
 1. Download the "Movie Theater Seating" folder.
 2. Enter your terminal and set the path to the location of the folder (cd 'path').
 3. Create your own input text files (.txt) or edit one of the existing test files following the input format "R### x" where R### is the reservation ID and x is the number of seats.
-4. Type the following command with your choice of input file (make sure your system uses a version of Python 3.7 or newer): **python3 Driver.py input.txt**
-5. A display of the seating will appear in the terminal after running and an output.txt file will be created containing the allocation of seats for each processed request. 
+4. Type the following command with your choice of input file (make sure your system uses a version of Python 3.7 or newer):  
+   ```python3 Driver.py input.txt```
+6. A display of the seating will appear in the terminal after running and an output.txt file will be created containing the allocation of seats for each processed request. 
 
    If you want to test the program with a focus on Theater Utilization, you can decrease the *safety_buffer* value in Theater.py to 1.
 
