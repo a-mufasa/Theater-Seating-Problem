@@ -36,7 +36,7 @@ we tell them "insufficient seats" and try to fit any requests that meet the rema
 
 ## Discussion
 Given more time, there are some changes I would've made to improve the project. Efficiency wasn't a priority
-for this assignment but the project does well to make use of data structures, OOP, etc. so I with more time
+for this assignment but the project does well to make use of data structures, OOP, etc. so with more time
 for research and development, I would opt to use sparse matrices and/or graphs using a greedy algorithm where 
 we assign weights to edges between an empty node and an occupied node. By minimizing the traversal, we can really
 improve the speed of the program.
